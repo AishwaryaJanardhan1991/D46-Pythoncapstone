@@ -20,5 +20,5 @@ c. Categorized employees into different age groups from 20 to 60 and identified 
 d. Calculated the total salary expense per team and per position and visualized the results.
 e. Checked the Correlation Between Age and Salary using scatter plot and line chart.
 
- All the analysis done with the help of matplotlib and seaborn python libraries.
+ All the visualization done with the help of matplotlib and seaborn python libraries.
 The Insights derived from the analysis based  on most populated team, most common positions, age group with maximum number of employees, team and position with the highest salary expenditure and checked for the trend between age and salary.
